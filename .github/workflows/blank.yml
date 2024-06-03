@@ -2,4 +2,4 @@
 
 git config --global user.name "[tejo sandeep]"
 
-
+git init
